@@ -176,3 +176,4 @@ For `error TS2345` you need to add this to your `tsconfig.json`.
 
 MIT
 
+Check : https://www.digitalocean.com/community/tutorials/angular-socket-io
